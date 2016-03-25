@@ -1,0 +1,111 @@
+#mytitle
+{
+    font-family:
+    color: 
+    text-shadow:2px 2px 3px #ff0000
+}
+
+#wholeblock
+{
+    height:100%;
+    width:100%;
+}
+
+#header
+{
+    height:60px;
+    width:100%;
+    background-color:#353535
+}
+
+#headerul
+{
+     list-style-type: none;
+    margin: 0;
+    padding: 5;
+    overflow: hidden;
+    background-color: #333;
+}
+
+#headerul li 
+{
+    float: left;
+}
+
+#headerul li a
+{
+    display: block;
+    color: white;
+    font-size:25px; 
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+#headerul li a:hover {
+    background-color: #008000;
+}
+
+#headerul li a:active {
+    background-color: #008000;
+}
+
+#left
+{
+    height:500px;
+    width:175px;
+    background-color:#8A897c;
+    float:left;
+}
+
+#lsection
+{
+     list-style-type: none;
+    margin: 0;
+    padding:0px;
+    overflow: hidden;
+    background-color:#8A897c;
+}
+
+#lsection li
+{
+    padding:10px 5px 5px 5px;
+}
+
+#lsection li a
+{
+    display: block;
+    color: white;
+    text-align:center;
+    font-size:20px; 
+    padding: 14px 0px;
+    text-decoration: none;
+}
+
+#lsection li a:hover
+{
+    background-color:#5DD39E; 
+    border:none;
+}
+
+#data_display
+{
+    height:500px;
+    width:80%;
+}
+
+#right
+{
+    height:500px;
+    width:100px;
+    background-color:white;/*#8A897C;*/
+    float:right;
+}
+
+#footer
+{
+    height:50px;
+    width:100%;
+    background-color:#353530;
+    clear:both;
+}

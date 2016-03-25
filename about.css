@@ -1,0 +1,12 @@
+#outerblock
+{
+    width:70%;
+    height:500px;
+}
+
+#innerblock
+{
+    width:20%;
+    height:450px;
+    float:left;
+}
